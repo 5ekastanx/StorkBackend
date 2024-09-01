@@ -1,21 +1,20 @@
-# Создание API для Онлайн Магазина
+# Creating an API for an Online Store
 
-Добро пожаловать в проект **Создание API для Онлайн Магазина**! Этот проект представляет собой разработку API для работы онлайн магазина, который может быть использован для взаимодействия с клиентским приложением на React.
+Welcome to the project **Creating an API for an Online Store**! This project is the development of an API for an online store, which can be used to interact with a client application in React.
 
-## Описание
+## Description
 
-Проект разработан с использованием **Node.js** для создания серверной части и **Express.js** в качестве фреймворка для разработки API. API предоставляет возможность управления товарами, пользователями, заказами и другими аспектами функционала магазина.
+The project is developed using **Node.js** for creating the backend and **Express.js** as the framework for developing the API. The API provides the ability to manage products, users, orders and other aspects of the store functionality.
 
-## Структура проекта
+## Project structure
 
-- **server**: содержит код серверной части на Node.js.
-
-## Установка и запуск
-
-### Установка зависимостей
-
-1. Клонируйте репозиторий:
+- **server**: contains server-side code in Node.js.
+- 
+1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ваш_юзернейм/название_репозитория.git
-   cd название_репозитория
+   git clone https://github.com/5ekastanx/StorkBackend.git
+   cd StorkBackend
+2. Launch:
+   ```bash
+   npm start
